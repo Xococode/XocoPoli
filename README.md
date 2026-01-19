@@ -2,7 +2,7 @@
 
 **Xocopoli v2** es una potente herramienta de modelado 3D basada en la web, construida con **React**, **TypeScript** y **Three.js**. Permite a los usuarios crear, editar y manipular geometría 3D directamente en el navegador con una interfaz intuitiva y herramientas de nivel profesional.
 
-🔗 **[Demo Pública](https://unreal-virgilio.github.io/xocopoli-v2/)**
+🔗 **[Demo Pública](https://xococode.github.io/XocoPoli/)**
 
 ![Menu de la aplicación](Menu.gif)
 
